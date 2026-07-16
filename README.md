@@ -97,7 +97,7 @@ Privacy-first, local-only PDF toolkit. Merge, split, compress, convert — all i
 The flagship site for my web development agency. Clean design, sharp copy, built to convert. This is what professional web work looks like.
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Cyberangelo-King/thewebmavenhq)
-[![Live Site](https://img.shields.io/badge/Live_Site-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://beacons.ai/theangeloking)
+[![Live Site](https://img.shields.io/badge/Live_Site-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://thewebmaven.netlify.app)
 
 </td>
 </tr>
