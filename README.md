@@ -14,11 +14,11 @@
 <h1>Cyberangelo-King</h1>
 
 <p><em>5+ years turning complex problems into clean, working software.</em><br/>
-Founder of <strong><a href="https://github.com/Cyberangelo-King/thewebmavenhq">The Web Maven</a></strong> · Available for freelance & collaboration</p>
+Founder of <strong><a href="https://thewebmaven.netlify.app">The Web Maven</a></strong> · Available for freelance & collaboration</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-faithakinolaboyejo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faithakinolaboyejo/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-theangelo__king-FF6B35?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/theangeloking)
-[![Email](https://img.shields.io/badge/Email-cyberangeloking%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyberangeloking@gmail.com)
+[![Email](https://img.shields.io/badge/Email-faithakinboyejo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faithakinboyejo@gmail.com)
 
 </div>
 
@@ -133,6 +133,6 @@ Full-stack web development · ML/AI integration · Web agency partnerships
 *Building from Lagos — working everywhere.*
 
 [![Hire Me](https://img.shields.io/badge/Hire_Me-Available-00C851?style=for-the-badge)](mailto:cyberangeloking@gmail.com)
-[![The Web Maven](https://img.shields.io/badge/The_Web_Maven-Agency-gold?style=for-the-badge)](https://github.com/Cyberangelo-King/thewebmavenhq)
+[![The Web Maven](https://img.shields.io/badge/The_Web_Maven-Agency-gold?style=for-the-badge)](https://thewebmaven.netlify.app)
 
 </div>
