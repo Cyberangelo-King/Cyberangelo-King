@@ -158,7 +158,7 @@ The business I'm building around practical digital engineering: high-quality web
 
 ---
 
-## 🔍 What These Projects Say About Me
+## 🔍 The Through-Line
 
 ```text
 I don't want to be known for a list of technologies.
@@ -186,41 +186,25 @@ Across my work, I deliberately look for the intersection of **engineering qualit
 
 ## 🧰 Engineering Toolkit
 
-### Languages
-`Python` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
-
-### Frontend
-`React` · `Tailwind CSS`
-
-### Backend
-`Node.js` · `FastAPI` · `Streamlit`
-
-### AI / ML
-`scikit-learn` · `XGBoost` · `NumPy` · `Pandas`
-
-### Engineering
-`Git` · `GitHub` · `GitHub Actions` · `Linux`
+| Layer | Tools |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · HTML · CSS |
+| **Frontend** | React · Tailwind CSS |
+| **Backend** | Node.js · FastAPI · Streamlit |
+| **AI / ML** | scikit-learn · XGBoost · NumPy · Pandas |
+| **Engineering** | Git · GitHub · GitHub Actions · Linux |
 
 > Tools change. **The fundamentals don't:** architecture, problem-solving, testing, security, communication, and shipping.
 
 ---
 
-## 🧪 Currently Building
+## 🧪 Now
 
-### ⚡ Momentum
-Turning an event networking concept into a more robust intelligence platform with stronger architecture, security, reliability, and product depth.
-
-### 🧱 The Web Maven
-Building a studio around **software + web + automation**, with an emphasis on useful systems rather than disposable sites.
-
-### 🤖 Applied AI
-Exploring AI systems that can understand context, support decisions, automate meaningful work, and remain bounded by deliberate human controls.
-
----
-
-## 🔬 Areas I Care About
-
-`Applied AI` · `Machine Learning` · `AI Product Engineering` · `Software Architecture` · `Cybersecurity` · `Automation` · `Developer Tools` · `Data & Decision Systems` · `Human-Centered Technology`
+| Building | Exploring | Improving |
+|---|---|---|
+| **Momentum** | AI-native product architecture | Security engineering |
+| **The Web Maven** | Applied AI systems | Product architecture |
+| **Developer tools & utilities** | Intelligent workflows | Shipping & iteration |
 
 ---
 
@@ -228,7 +212,7 @@ Exploring AI systems that can understand context, support decisions, automate me
 
 I write and think about **technology, business, psychology, purpose, execution, and the human side of building things**.
 
-Because good engineering is not only about knowing how to implement something.
+Because good engineering is not only about knowing **how** to implement something.
 
 It is also about knowing **what is worth implementing in the first place.**
 
@@ -236,7 +220,7 @@ It is also about knowing **what is worth implementing in the first place.**
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Signals
 
 <div align="center">
 
@@ -244,9 +228,7 @@ It is also about knowing **what is worth implementing in the first place.**
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-</div>
-
-<div align="center">
+<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Cyberangelo-King&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -262,7 +244,7 @@ It is also about knowing **what is worth implementing in the first place.**
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/Cyberangelo-King/Cyberangelo-King/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Cyberangelo-King/Cyberangelo-King/gh-pages/github-contribution-grid-snake.svg)
 
 </div>
 
