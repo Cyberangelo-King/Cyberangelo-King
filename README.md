@@ -1,12 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:FA8938&height=180&section=header&text=ANGelo%20Boyejo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder&descAlignY=58&descSize=18" alt="Angelo Boyejo header" />
+<a href="https://github.com/Cyberangelo-King">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,45:111827,100:FA8938&height=210&section=header&text=Faith%20Akinola%20Boyejo&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Angelo%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder&descAlignY=57&descSize=17" alt="Faith Akinola Boyejo — Angelo" />
+</a>
 
 ### `whoami`
 
-**Software Engineer · AI/ML Engineer · Founder**
+**Faith Akinola Boyejo — Angelo**
 
-I build software that turns difficult problems into useful products — from full-stack applications and AI/ML systems to tools designed around real people and real workflows.
+Software Engineer · AI/ML Engineer · Founder
+
+I build **software, intelligent systems, and products** that turn real problems into practical outcomes.
+I work across the application layer, data/model layer, and product layer — from interfaces and APIs to machine learning systems and the businesses around them.
 
 **5+ years building · Lagos, Nigeria 🇳🇬 · Working globally**
 
@@ -15,71 +20,71 @@ I build software that turns difficult problems into useful products — from ful
 [![Email](https://img.shields.io/badge/Email-faithakinboyejo%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faithakinboyejo@gmail.com)
 [![The Web Maven](https://img.shields.io/badge/The%20Web%20Maven-Software%20%26%20Web%20Studio-FA8938?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Cyberangelo-King&style=for-the-badge&color=FA8938&label=PROFILE+VIEWS)
+
 </div>
 
 ---
 
-## 🧭 What I Do
+## ⚡ The Short Version
 
-I work across the **product, application, and intelligence layers** of software.
+> **I like taking ambiguous problems, understanding the system underneath them, and turning them into software people can actually use.**
 
-| Area | What I build |
-|---|---|
-| 🌐 **Software Engineering** | Full-stack web applications, APIs, dashboards, internal tools, product prototypes |
-| 🤖 **AI / ML Engineering** | Predictive systems, model pipelines, explainability, intelligent features, applied AI |
-| 🧩 **Product Engineering** | Turning messy requirements into focused, usable, production-minded products |
-| 🚀 **Founder / Builder** | Developing products, businesses, and systems around real-world problems |
+I'm especially interested in the intersection of **software engineering, artificial intelligence, product design, automation, and business**.
 
-> **My bias:** understand the problem deeply, engineer the right solution, then ship.
+I don't want to build technology for technology's sake. I want to build things that are **useful, reliable, secure, maintainable, and capable of creating leverage**.
 
 ---
 
-## 🏗️ What I'm Building Toward
+## 🧩 What I Build
 
-I'm particularly interested in the space where **software + AI + product thinking** meet.
+| Discipline | Typical Work |
+|---|---|
+| 🖥️ **Software Engineering** | Full-stack applications, APIs, dashboards, internal tools, integrations, developer tooling |
+| 🤖 **AI / ML Engineering** | Predictive systems, model pipelines, evaluation, explainability, intelligent product features |
+| 🧠 **Product Engineering** | Translating messy requirements into focused products, workflows, and experiences |
+| ⚙️ **Automation** | Removing repetitive work with software, AI, APIs, and workflow systems |
+| 🔐 **Security-minded Systems** | Privacy, authorization boundaries, safer architecture, failure handling, auditability |
+| 🚀 **Founder / Builder** | Products, ventures, experiments, and technology businesses through The Web Maven |
+
+### My default loop
 
 ```text
-Problem
-  ↓
-Research → Model → System → Product
-  ↓                         ↓
-Insight                 Experience
-  \                         /
-   └──────── Feedback ─────┘
-              ↓
-           Iteration
+Understand → Model → Design → Build → Ship → Observe → Improve
 ```
-
-I care about more than getting a model to work or getting a UI on screen. The goal is to build systems that are **useful, explainable, maintainable, secure, and capable of creating measurable value**.
 
 ---
 
-## 🚀 Featured Work
+## 🏗️ Featured Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Fraud Detection ML System
+### ⚡ Momentum
 
-An end-to-end fraud detection system built around a **stacking ensemble of XGBoost, Random Forest, and Logistic Regression**, with leakage-aware OOF methodology, SHAP explainability, a FastAPI inference layer, and a Streamlit dashboard.
+**Event Intelligence & Relationship OS**
 
-**AUPRC 0.903 · F1 0.881 · MCC 0.884**
+A privacy-first product for turning real-world events into durable context, relationship intelligence, actionable follow-up, and compounding learning.
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection)
+Designed as a broader **Event OS** for conferences, summits, workshops, hackathons, masterminds, networking events, and other high-context environments.
+
+**Intelligence · Memory · Governance · Security · Offline resilience**
+
+[![Repository](https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberangelo-King/Momentum)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Momentum
+### 🤖 Fraud Detection ML System
 
-A privacy-first **Event Intelligence & Relationship OS** designed to turn events into durable context, relationship intelligence, follow-up, and compounding learning.
+**End-to-end applied machine learning system**
 
-Built around a broader **Event OS** vision for conferences, summits, workshops, hackathons, masterminds, and networking environments.
+A stacking ensemble using **XGBoost + Random Forest + Logistic Regression**, paired with leakage-aware OOF methodology, SHAP explainability, a FastAPI inference layer, and a Streamlit dashboard.
 
-**Intelligence · Memory · Governance · Security · Offline resilience**
+**AUPRC 0.903 · F1 0.881 · MCC 0.884**
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberangelo-King/Momentum)
+[![Repository](https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection)
 
 </td>
 </tr>
@@ -88,24 +93,26 @@ Built around a broader **Event OS** vision for conferences, summits, workshops, 
 
 ### 📄 IHatePDF
 
-A privacy-first PDF toolkit that performs document operations **locally in the browser**.
+**Private document processing in the browser**
 
-Merge, split, compress, convert — without sending files to a backend.
+A local-first PDF toolkit for merging, splitting, compressing, and converting documents without uploading the files to a backend.
 
 **JavaScript · PDF.js · Zero-server architecture**
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberangelo-King/IHatePDF)
+[![Repository](https://img.shields.io/badge/Explore%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberangelo-King/IHatePDF)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 The Web Maven
 
-The flagship digital presence for **The Web Maven**, my software and web studio.
+**Software & Web Studio**
 
-Built around a simple principle: technology should not merely look impressive — it should communicate clearly, reduce friction, and help a business move.
+My founder-led studio focused on building high-quality digital experiences, business websites, software products, and useful systems for people and organizations.
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-FA8938?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
+**Strategy · Design · Engineering · Delivery**
+
+[![Website](https://img.shields.io/badge/Visit%20The%20Web%20Maven-FA8938?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
 
 </td>
 </tr>
@@ -113,30 +120,29 @@ Built around a simple principle: technology should not merely look impressive �
 
 ---
 
-## 🧠 Engineering Philosophy
+## 🧠 How I Think About Engineering
 
 ```text
-┌────────────────────────────────────────────────────────────┐
-│                      BUILDING SYSTEMS                      │
-├────────────────────────────────────────────────────────────┤
-│  01  Understand the problem before choosing the stack      │
-│  02  Prefer simple architecture until complexity is earned │
-│  03  Treat data, security, and UX as first-class concerns  │
-│  04  Measure outcomes — not just features shipped          │
-│  05  Automate repetition; protect human judgment            │
-│  06  Ship, observe, learn, improve                         │
-└────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                     ENGINEERING PRINCIPLES                   │
+├──────────────────────────────────────────────────────────────┤
+│  01  Understand the problem before choosing the technology   │
+│  02  Keep the architecture as simple as the problem allows   │
+│  03  Treat UX, security, data, and reliability as core work  │
+│  04  Prefer evidence and measurement over assumptions        │
+│  05  Automate repetition; preserve human judgment            │
+│  06  Build for change, not just for the first release        │
+│  07  Ship → learn → improve                                  │
+└──────────────────────────────────────────────────────────────┘
 ```
 
-### A few things I value
-
-**Clarity > cleverness** · **Evidence > assumptions** · **Systems > isolated features** · **Iteration > perfectionism**
+**Clarity > cleverness** · **Outcomes > activity** · **Systems > isolated features** · **Iteration > perfection**
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠️ Technical Stack
 
-### Frontend & Product
+### Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -168,21 +174,38 @@ Built around a simple principle: technology should not merely look impressive �
 
 ---
 
-## 🔬 Areas of Interest
+## 🔭 What I'm Exploring
 
-`Applied AI` · `Machine Learning` · `AI Product Engineering` · `Software Architecture` · `Cybersecurity` · `Developer Tools` · `Automation` · `Human-Centered Systems` · `Data & Decision Systems`
+`Applied AI` · `AI Product Engineering` · `Machine Learning` · `Software Architecture` · `Cybersecurity` · `Developer Tools` · `Automation` · `Human-Centered Systems` · `Data & Decision Systems`
+
+I'm especially curious about systems that **remember context, reason over it, assist people without overstepping, and improve through feedback**.
 
 ---
 
-## 📈 GitHub at a Glance
+## 🚧 Currently Building
+
+### ⚡ Momentum
+Moving an event/networking concept toward a more robust **intelligence platform** with stronger architecture, security, authorization, resilience, and product foundations.
+
+### 🧱 The Web Maven
+Growing a founder-led **software & web studio** around high-quality digital experiences and practical business systems.
+
+### 🤖 Applied AI Experiments
+Exploring ways AI can become part of a useful system — not simply a chatbot bolted onto an existing product.
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Angelo%27s%20GitHub%20Stats" alt="Angelo's GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Languages" alt="Angelo's top languages" />
 
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -190,33 +213,29 @@ Built around a simple principle: technology should not merely look impressive �
 
 </div>
 
----
+<br/>
 
-## 🧪 Currently Building
+<div align="center">
 
-> **Momentum** — pushing an event/networking product from concept toward a more robust, secure, and production-minded intelligence platform.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberangelo-King&theme=tokyo-night&hide_border=true&area=true" alt="Angelo's GitHub activity graph" />
 
-> **The Web Maven** — growing a software and web studio focused on building high-quality digital experiences and useful business systems.
-
-> **Applied AI** — exploring where intelligent systems can do more than generate text: understand context, support decisions, automate workflows, and compound value over time.
+</div>
 
 ---
 
 ## 🤝 Work With Me
 
-I'm open to **freelance projects, product collaborations, contract engineering, and thoughtful technical partnerships**.
+I'm open to **freelance engineering, contract work, product collaborations, AI/ML projects, and interesting technical partnerships**.
 
-Particularly interested in work involving:
-
-**Full-stack product development · AI/ML systems · AI integration · Automation · Technical problem-solving**
+The best fit is usually work where there's a real problem to solve — not just a list of features to implement.
 
 <div align="center">
 
-### Building from Lagos. Shipping everywhere.
+### Building from Lagos. Working everywhere.
 
 [![Email Angelo](https://img.shields.io/badge/Email%20Angelo-FA8938?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faithakinboyejo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faithakinolaboyejo/)
-[![The Web Maven](https://img.shields.io/badge/Explore%20The%20Web%20Maven-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/Connect%20with%20Angelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faithakinolaboyejo/)
+[![The Web Maven](https://img.shields.io/badge/Build%20with%20The%20Web%20Maven-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
 
 </div>
 
@@ -224,6 +243,6 @@ Particularly interested in work involving:
 
 <div align="center">
 
-<sub>© Angelo Boyejo · Software Engineer · AI/ML Engineer · Founder</sub>
+<sub><strong>Faith Akinola Boyejo</strong> · Angelo · Software Engineer · AI/ML Engineer · Founder</sub>
 
 </div>
