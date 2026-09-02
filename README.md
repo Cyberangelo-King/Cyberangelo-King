@@ -216,7 +216,7 @@ Because good engineering is not only about knowing **how** to implement somethin
 
 It is also about knowing **what is worth implementing in the first place.**
 
-[![Read My Writing](https://img.shields.io/badge/Read_My_Writing-111827?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/)
+[![Read My Writing](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/theangeloking)
 
 ---
 
