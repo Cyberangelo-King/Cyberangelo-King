@@ -5,7 +5,7 @@
 ║  $ whoami                                                    ║
 ║  > Angelo · Full-Stack Dev · ML Engineer · Founder           ║
 ║  $ pwd                                                       ║
-║  > Lagos, Nigeria 🇳🇬                                        ║
+║  > Lagos, Nigeria 🇳🇬                                         ║
 ║  $ cat mission.txt                                           ║
 ║  > Building the web. Training machines. Shipping things.     ║
 ╚══════════════════════════════════════════════════════════════╝
