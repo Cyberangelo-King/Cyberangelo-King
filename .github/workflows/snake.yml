@@ -21,8 +21,17 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Publish generated assets
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          build_dir: dist
         env:
-          GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git init dist
+          git -C dist checkout --orphan gh-pages
+          git -C dist add --all
+          git -C dist commit --allow-empty -m "Deploy generated contribution snake"
+          git -C dist remote add origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git -C dist push --force origin gh-pages
