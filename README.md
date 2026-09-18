@@ -1,126 +1,60 @@
-<div align="center">
+# ANGËLO
 
-<a href="https://github.com/Cyberangelo-King">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,55:111827,100:FA8938&height=210&section=header&text=Faith%20Akinola%20Boyejo&fontSize=43&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Angelo%20%E2%80%94%20Software%20Engineer%20%C2%B7%20AI%2FML%20Engineer%20%C2%B7%20Founder&descAlignY=57&descSize=17" alt="Faith Akinola Boyejo — Angelo" />
-</a>
+**Faith Akinola Boyejo**  
+Software Engineer · Founder · Full-Stack Builder
 
-### `whoami`
+*Building the web. Training machines. Shipping things.*
 
-**Faith Akinola Boyejo** — *Angelo* to friends, collaborators, and the internet.
+[LinkedIn](https://www.linkedin.com/in/faithakinolaboyejo/) · [Portfolio](https://beacons.ai/theangeloking) · [Email](mailto:faithakinboyejo@gmail.com) · [The Web Maven](https://thewebmaven.netlify.app)
 
-I design and build **software products, intelligent systems, and digital experiences** that turn complex problems into useful things.
-
-**Lagos, Nigeria 🇳🇬 · 5+ years building · Working globally**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faithakinolaboyejo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/theangeloking)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faithakinboyejo@gmail.com)
-[![The Web Maven](https://img.shields.io/badge/The_Web_Maven-FA8938?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
-
-</div>
-
-> **I like taking ambiguous problems and turning them into systems people can actually use.**
+> **I turn ambiguous problems into software, systems, and products people can actually use.**
 
 ---
 
-## 🧭 The Work
+## 🧭 What I Build
 
-I operate across three layers of the stack:
+I work across the boundary between **engineering, intelligence, and product**.
 
-<table>
-<tr>
-<td width="33%" valign="top">
+| | |
+|---|---|
+| **⚙️ Software** | Full-stack applications, APIs, dashboards, internal tools, automation, and digital platforms. |
+| **🧠 AI / ML** | Applied machine learning, intelligent workflows, AI agents, data systems, and decision-support tools. |
+| **🚀 Products** | Products shaped around real problems, not technology for technology's sake. |
 
-### ⚙️ Software
-
-Full-stack applications, APIs, dashboards, internal tools, web platforms, and product prototypes.
-
-**Think:** architecture, interfaces, data flows, reliability, deployment.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 Intelligence
-
-Applied AI/ML systems that move beyond demos into useful workflows and decisions.
-
-**Think:** data, models, evaluation, explainability, inference, intelligent features.
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 Products
-
-I care about the layer above implementation: **why the product should exist, who it serves, and what success looks like.**
-
-**Think:** user problems, systems thinking, iteration, business value.
-
-</td>
-</tr>
-</table>
+I care about the whole system: **the problem, architecture, interface, data, security, deployment, and what happens after launch.**
 
 ---
 
-## 🏗️ How I Build
+## 🔨 Currently Building
 
-```text
-       PROBLEM
-          │
-          ▼
-   ┌──────────────┐
-   │   DISCOVER   │  Understand the real constraint
-   └──────┬───────┘
-          ▼
-   ┌──────────────┐
-   │    DESIGN    │  Shape the simplest useful system
-   └──────┬───────┘
-          ▼
-   ┌──────────────┐
-   │   ENGINEER   │  Build the product + the foundations
-   └──────┬───────┘
-          ▼
-   ┌──────────────┐
-   │    VERIFY    │  Test assumptions, security, behavior
-   └──────┬───────┘
-          ▼
-   ┌──────────────┐
-   │     SHIP     │  Put it in the hands of real users
-   └──────┬───────┘
-          ▼
-   ┌──────────────┐
-   │    LEARN     │  Observe → improve → repeat
-   └──────────────┘
-```
+### **OROS**
+A problem-discovery and problem-solving system designed to help people find meaningful business and brand problems, research them, develop solutions, and turn the work into useful outputs.
 
-> **Clarity over cleverness. Evidence over assumptions. Systems over isolated features.**
+AI · Research · Problem Solving · Content Systems · React Native
+
+### **Momentum**
+An event intelligence and relationship system designed to turn conversations and connections into durable context, follow-up, and learning.
+
+Product Engineering · Supabase · Offline-first · Security
+
+### **The Web Maven**
+A strategic software and digital systems studio focused on websites, software, AI integration, automation, and systems that help organizations operate better.
+
+Web Engineering · AI · Automation · SEO · Digital Systems
 
 ---
 
-## 🚀 Selected Work
+## 🧪 Selected Work
 
-### 01 · Momentum
-**Event Intelligence & Relationship OS**
+### **IHatePDF**
+A privacy-first browser PDF toolkit for common document operations without requiring files to be uploaded to a remote server.
 
-A privacy-first system designed to turn events into **durable context, relationship intelligence, actionable follow-up, and compounding learning**.
+**Built with:** JavaScript · PDF.js · Browser APIs
 
-Momentum is being designed as a broader Event OS for conferences, summits, workshops, hackathons, masterminds, and networking environments—not a one-off event app.
+[Repository](https://github.com/Cyberangelo-King/IHatePDF)
 
-**Highlights**
-
-`Intelligence` · `Memory` · `Governance` · `Security` · `Offline Resilience`
-
-**What it demonstrates:** product architecture, persistent context, bounded autonomy, authorization boundaries, security thinking, and building for real-world workflows.
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberangelo-King/Momentum)
-
----
-
-### 02 · Fraud Detection ML System
-**Applied Machine Learning · Decision Support · Explainability**
-
-An end-to-end credit-card fraud detection system built around a **stacking ensemble of XGBoost, Random Forest, and Logistic Regression**, with leakage-aware OOF methodology, SHAP explainability, FastAPI inference, and a Streamlit dashboard.
-
-**Performance**
+### **Credit Card Fraud Detection**
+An end-to-end machine learning system using a stacking ensemble of XGBoost, Random Forest, and Logistic Regression, with leakage-aware evaluation, SHAP explainability, FastAPI inference, and a Streamlit interface.
 
 | Metric | Result |
 |---|---:|
@@ -128,95 +62,75 @@ An end-to-end credit-card fraud detection system built around a **stacking ensem
 | F1 Score | **0.881** |
 | MCC | **0.884** |
 
-**What it demonstrates:** practical ML engineering, evaluation under imbalance, leakage prevention, explainability, API integration, and deployment thinking.
+**Built with:** Python · scikit-learn · XGBoost · SHAP · FastAPI · Streamlit
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection)
-
----
-
-### 03 · IHatePDF
-**Privacy-first browser document toolkit**
-
-A local-first PDF utility that keeps document processing in the browser rather than uploading files to a remote server.
-
-Merge · split · compress · convert
-
-**JavaScript · PDF.js · Zero-server architecture**
-
-**What it demonstrates:** browser engineering, privacy-by-design, client-side processing, and shipping a focused utility around a simple user need.
-
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cyberangelo-King/IHatePDF)
+[Repository](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection)
 
 ---
 
-### 04 · The Web Maven
-**Software & Web Studio**
+## 🧠 How I Build
 
-The business I'm building around practical digital engineering: high-quality websites, software products, automation, and technology solutions for organizations that need more than a pretty interface.
+    PROBLEM
+       |
+       v
+    UNDERSTAND
+       |
+       v
+    RESEARCH
+       |
+       v
+    DESIGN
+       |
+       v
+    BUILD
+       |
+       v
+    TEST + BREAK
+       |
+       v
+    SHIP
+       |
+       v
+    OBSERVE + LEARN
+       |
+       +-------> IMPROVE
 
-[![Live Site](https://img.shields.io/badge/Explore_The_Web_Maven-FA8938?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
+> **Clarity over cleverness. Evidence over assumptions. Systems over isolated features.**
 
----
-
-## 🔍 The Through-Line
-
-```text
 I don't want to be known for a list of technologies.
 
-I want to be known for what happens when a hard problem lands on my desk.
+I want the work to answer a simpler question:
 
-             HARD PROBLEM
-                   ↓
-          UNDERSTAND THE SYSTEM
-                   ↓
-             CHOOSE THE TOOLS
-                   ↓
-              BUILD + TEST
-                   ↓
-                 SHIP
-                   ↓
-                LEARN
-                   ↓
-               BETTER SYSTEM
-```
-
-Across my work, I deliberately look for the intersection of **engineering quality, user experience, security, and measurable outcomes**.
+**What happens when a difficult problem lands on my desk?**
 
 ---
 
 ## 🧰 Engineering Toolkit
 
-| Layer | Tools |
-|---|---|
-| **Languages** | Python · TypeScript · JavaScript · HTML · CSS |
-| **Frontend** | React · Tailwind CSS |
-| **Backend** | Node.js · FastAPI · Streamlit |
-| **AI / ML** | scikit-learn · XGBoost · NumPy · Pandas |
-| **Engineering** | Git · GitHub · GitHub Actions · Linux |
+**Languages:** Python · TypeScript · JavaScript · HTML · CSS
 
-> Tools change. **The fundamentals don't:** architecture, problem-solving, testing, security, communication, and shipping.
+**Frontend:** React · Next.js · Tailwind CSS · Three.js · WebGL
 
----
+**Backend & Data:** Node.js · FastAPI · PostgreSQL · Supabase
 
-## 🧪 Now
+**AI / ML:** scikit-learn · XGBoost · NumPy · Pandas · Gemini · AI Agents
 
-| Building | Exploring | Improving |
-|---|---|---|
-| **Momentum** | AI-native product architecture | Security engineering |
-| **The Web Maven** | Applied AI systems | Product architecture |
-| **Developer tools & utilities** | Intelligent workflows | Shipping & iteration |
+**Engineering:** Git · GitHub · GitHub Actions · Linux · Netlify
+
+> Tools change. **Architecture, problem-solving, security, testing, communication, and shipping remain.**
 
 ---
 
-## 📚 Beyond Code
+## 📐 Engineering Principles
 
-I write and think about **technology, business, psychology, purpose, execution, and the human side of building things**.
-
-Because good engineering is not only about knowing **how** to implement something.
-
-It is also about knowing **what is worth implementing in the first place.**
-
-[![Read My Writing](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/theangeloking)
+- **Start with the problem, not the stack.**
+- **Make the simplest useful system first.**
+- **Treat security and privacy as architecture concerns.**
+- **Measure what matters.**
+- **Document important decisions.**
+- **Automate repetitive work.**
+- **Build for failure, not just the happy path.**
+- **Ship, observe, improve.**
 
 ---
 
@@ -232,10 +146,6 @@ It is also about knowing **what is worth implementing in the first place.**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Cyberangelo-King&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Cyberangelo-King&style=for-the-badge&color=FA8938&label=PROFILE+VIEWS" alt="Profile views" />
-
 </div>
 
 ---
@@ -250,28 +160,32 @@ It is also about knowing **what is worth implementing in the first place.**
 
 ---
 
+## ✍️ Beyond Code
+
+I write about **technology, business, psychology, philosophy, purpose, execution, and the human side of building things.**
+
+Because good engineering isn't only knowing **how** to build something.
+
+It's knowing **what is worth building in the first place.**
+
+[Read my writing](https://faithboyejo.substack.com/)
+
+---
+
 ## 🤝 Let's Build
 
-I'm interested in working with **startups, businesses, researchers, founders, and technical teams** that have a real problem worth solving.
+I'm interested in working with **founders, businesses, researchers, startups, and technical teams** solving problems that deserve serious engineering.
 
-### Good fit
-
-**Full-stack product engineering** · **AI/ML systems** · **AI integration** · **Automation** · **Technical problem-solving** · **Product prototyping**
+**Full-stack product engineering · AI/ML systems · AI integration · Automation · Technical problem-solving · Product prototyping**
 
 <div align="center">
 
 ### **Building from Lagos. Thinking globally. Shipping deliberately.**
 
-[![Email Angelo](https://img.shields.io/badge/Email_Angelo-FA8938?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faithakinboyejo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faithakinolaboyejo/)
-[![The Web Maven](https://img.shields.io/badge/The_Web_Maven-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
+[Email Angelo](mailto:faithakinboyejo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/faithakinolaboyejo/) · [The Web Maven](https://thewebmaven.netlify.app)
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<sub><strong>Faith Akinola Boyejo</strong> · Angelo · Software Engineer · AI/ML Engineer · Founder</sub>
+<sub><strong>Faith Akinola Boyejo</strong> · Angëlo · Software Engineer · Founder</sub>
 
 </div>
