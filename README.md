@@ -90,7 +90,7 @@ Products shaped around real problems, not technology for technology's sake.
                                   ↓
                          ┌─────────────────┐
                          │    ENGINEER     │
-                         │ build + integrate│
+                         │build + integrate│
                          └────────┬────────┘
                                   ↓
                          ┌─────────────────┐
