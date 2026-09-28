@@ -169,7 +169,7 @@ I care about the entire system, not just the visible feature.
                                   ↓
                          ┌─────────────────┐
                          │    ENGINEER     │
-                         │ build + integrate│
+                         │build + integrate│
                          └────────┬────────┘
                                   ↓
                          ┌─────────────────┐
