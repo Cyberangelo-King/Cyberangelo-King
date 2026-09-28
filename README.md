@@ -1,14 +1,14 @@
 <div align="center">
 
 <a href="https://github.com/Cyberangelo-King">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:111827,75:1F2937,100:FA8938&height=230&section=header&text=Faith%20Akinola%20Boyejo&fontSize=43&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Angëlo%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder&descAlignY=57&descSize=17" width="100%" alt="Faith Akinola Boyejo, Angëlo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:111827,75:1F2937,100:FA8938&height=230&section=header&text=Faith%20Akinola%20Boyejo&fontSize=43&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Ang%C3%ABlo%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder&descAlignY=57&descSize=17" width="100%" alt="Faith Akinola Boyejo, Angëlo" />
 </a>
 
 ### `whoami`
 
 **Faith Akinola Boyejo** · **Angëlo**
 
-Software Engineer · AI/ML Engineer · Founder
+**Software Engineer · AI/ML Engineer · Founder**
 
 *Building the web. Training machines. Shipping things.*
 
@@ -21,57 +21,136 @@ Software Engineer · AI/ML Engineer · Founder
 
 </div>
 
-> **I like taking ambiguous problems, understanding the system underneath them, and turning them into software people can actually use.**
+> I build software at the intersection of **engineering, intelligence, and product** — from browser-first tools and full-stack systems to applied ML and AI-powered workflows.
 
 ---
 
 ## ⚡ The Short Version
 
-I build across the boundary between **software engineering, intelligence, and product**.
+I'm a **Software Engineer, AI/ML Engineer, and Founder** based in Lagos.
 
-That means I care about more than getting a feature to work. I care about the problem behind it, the architecture underneath it, the interface people touch, the data it creates, the security around it, how it gets deployed, and what happens after it ships.
+I like difficult, ambiguous problems.
 
-**Software · AI/ML · Product Engineering · Automation · Systems · Founder-led products**
+I want to understand the system underneath them, find the useful leverage, and turn the result into software that is **clear, resilient, secure, and actually usable**.
+
+I don't want my GitHub to be a list of technologies. I want it to be evidence of how I think and what I can build.
+
+**Software Engineering · AI/ML · Product Engineering · Automation · Systems · Founder-led Products**
 
 ---
 
 ## 🧩 What I Build
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### ⚙️ Software
-
-Full-stack applications, APIs, dashboards, internal tools, web platforms, developer tools, and product prototypes.
-
-**Think:** architecture, interfaces, data flows, reliability, deployment.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧠 Intelligence
-
-Applied AI/ML systems that move beyond demos into useful workflows and decisions.
-
-**Think:** data, models, evaluation, explainability, inference, agents.
-
-</td>
-<td width="33%" valign="top">
-
-### 🚀 Products
-
-Products shaped around real problems, not technology for technology's sake.
-
-**Think:** user problems, systems thinking, iteration, business value.
-
-</td>
-</tr>
-</table>
+| | |
+|---|---|
+| **⚙️ Software** | Full-stack applications, browser tools, APIs, dashboards, internal systems, developer utilities, and product prototypes. |
+| **🧠 Intelligence** | Applied ML, AI-assisted workflows, agents, decision-support systems, context/memory systems, and explainable models. |
+| **🚀 Products** | Products shaped around real problems, with attention to UX, architecture, security, deployment, and long-term maintainability. |
 
 ---
 
-## 🏗️ How I Build
+# 🚀 Selected Work
+
+These are the projects that best represent the direction of my work.
+
+### ⚡ Momentum
+**Event Intelligence & Relationship OS**
+
+A privacy-first system for turning real-world events into durable context, relationship intelligence, actionable follow-up, and compounding learning.
+
+The architecture is designed as a broader **Event OS** for conferences, summits, workshops, hackathons, masterminds, networking events, and other high-context environments.
+
+**Intelligence · Memory · Governance · Security · Offline resilience**
+
+[Repository](https://github.com/Cyberangelo-King/Momentum)
+
+---
+
+### 📄 IHatePDF
+**Privacy-first browser document toolkit**
+
+A browser-first PDF workspace for merging, splitting, converting, rendering, OCR, watermarking, metadata, and other document operations without uploading document contents to a remote processing backend.
+
+The project is deliberately honest about browser limitations: large files and OCR can consume substantial CPU/RAM, and operations are constrained accordingly.
+
+**JavaScript · PDF.js · PDF-lib · Tesseract.js · Browser APIs · Client-side processing**
+
+[Repository](https://github.com/Cyberangelo-King/IHatePDF) · [IHatePDF v2](https://github.com/Cyberangelo-King/IHatePDF-v2.0) *(private / active development)*
+
+---
+
+### 🤖 Fraud Detection ML System
+**Applied Machine Learning · Decision Support · Explainability**
+
+An end-to-end credit-card fraud detection system using a stacking ensemble of XGBoost, Random Forest, and Logistic Regression, with leakage-aware OOF methodology, SHAP explainability, FastAPI inference, and a Streamlit dashboard.
+
+| Metric | Result |
+|---|---:|
+| AUPRC | **0.903** |
+| F1 | **0.881** |
+| MCC | **0.884** |
+
+[Repository](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection) · [Results](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection/blob/main/RESULTS.md)
+
+---
+
+### 🌐 The Web Maven
+**Founder-led software & web studio**
+
+The Web Maven is my studio for strategic websites, software, AI integration, automation, SEO, and digital systems.
+
+The philosophy is simple:
+
+> **Build useful systems, not disposable websites.**
+
+**Strategy · Design · Engineering · Automation · Delivery**
+
+[Live site](https://thewebmaven.netlify.app) · [Repository](https://github.com/Cyberangelo-King/thewebmavenhq) *(private)*
+
+---
+
+### 🎓 AOFESTUS
+**Academic research & identity platform**
+
+A production academic website and research record for Dr. Osuolale Adeyinka Festus, built around structured academic data, provenance, accessibility, SEO, research identity, and long-term maintainability.
+
+**Python · Data-driven static generation · Netlify · Academic metadata**
+
+[Live site](https://aofestus.com) · [Repository](https://github.com/Cyberangelo-King/osuolale-festus-site) *(private)*
+
+---
+
+### 🌱 Wildday
+**Personal momentum system**
+
+A mobile-first system for turning things that matter into goals, repeatable actions, focus sessions, reflections, and a clear next step — while making it easier to restart when life gets in the way.
+
+Current foundation includes Expo + React Native + TypeScript, file-based routing, versioned local persistence, recurring actions, focus cycles, reflections, and opt-in local reminders.
+
+**React Native · Expo · TypeScript · Local-first systems · Product design**
+
+[Repository](https://github.com/Cyberangelo-King/wildday) · *(active development)*
+
+---
+
+### 🧠 OROS
+**Problem Intelligence & Problem-Solving System**
+
+OROS is built around a different loop:
+
+**Find → Research → Abstract → Build → Reflect → Share**
+
+The goal is to turn genuine problem-solving into reusable knowledge, better decisions, and useful public output.
+
+**AI · Research · Problem solving · ALEN · Mobile-first systems**
+
+[Repository](https://github.com/Cyberangelo-King/OROS) *(private / active development)*
+
+---
+
+## 🔬 How I Build
+
+I care about the entire system, not just the visible feature.
 
 ```text
                          ┌─────────────────┐
@@ -90,7 +169,7 @@ Products shaped around real problems, not technology for technology's sake.
                                   ↓
                          ┌─────────────────┐
                          │    ENGINEER     │
-                         │build + integrate│
+                         │ build + integrate│
                          └────────┬────────┘
                                   ↓
                          ┌─────────────────┐
@@ -114,194 +193,21 @@ Products shaped around real problems, not technology for technology's sake.
 
 ---
 
-# 🚀 Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-## ⚡ Momentum
-
-**Event Intelligence & Relationship OS**
-
-A privacy-first system for turning real-world events into durable context, relationship intelligence, actionable follow-up, and compounding learning.
-
-Designed as a broader **Event OS** for conferences, summits, workshops, hackathons, masterminds, networking events, and other high-context environments.
-
-**Intelligence · Memory · Governance · Security · Offline resilience**
-
-[Repository](https://github.com/Cyberangelo-King/Momentum) · [Architecture](https://github.com/Cyberangelo-King/Momentum#architecture)
-
-</td>
-<td width="50%" valign="top">
-
-## 🧠 OROS
-
-**Problem Intelligence & Problem-Solving System**
-
-A mobile-first system built around finding real problems, researching them deeply, abstracting reusable insights, building solutions, reflecting on the process, and turning genuine work into useful public output.
-
-**AI · Research · Problem Solving · ALEN · Offline-first**
-
-[Repository](https://github.com/Cyberangelo-King/OROS) · [Architecture](https://github.com/Cyberangelo-King/OROS/blob/main/docs/architecture/production-blueprint.md) · [Build Journal](https://github.com/Cyberangelo-King/OROS/blob/main/build-journal.md)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## 🤖 Fraud Detection ML System
-
-**Applied Machine Learning · Decision Support · Explainability**
-
-An end-to-end credit-card fraud detection system using a stacking ensemble of XGBoost, Random Forest, and Logistic Regression, with leakage-aware OOF methodology, SHAP explainability, FastAPI inference, and a Streamlit dashboard.
-
-| Metric | Result |
-|---|---:|
-| AUPRC | **0.903** |
-| F1 | **0.881** |
-| MCC | **0.884** |
-
-[Repository](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection) · [Results](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection/blob/main/RESULTS.md)
-
-</td>
-<td width="50%" valign="top">
-
-## 📄 IHatePDF
-
-**Privacy-first browser document toolkit**
-
-A local-first PDF utility for merging, splitting, compressing, converting, and working with documents without requiring the files to be uploaded to a remote backend.
-
-**JavaScript · PDF.js · Browser APIs · Zero-server architecture**
-
-[Repository](https://github.com/Cyberangelo-King/IHatePDF)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-## 🌐 The Web Maven
-
-**Software & Web Studio**
-
-My founder-led studio for strategic websites, software, AI integration, automation, SEO, and digital systems.
-
-The goal is simple: build useful systems, not disposable websites.
-
-**Strategy · Design · Engineering · Automation · Delivery**
-
-[Live site](https://thewebmaven.netlify.app) · [Repository](https://github.com/Cyberangelo-King/thewebmavenhq)
-
-</td>
-<td width="50%" valign="top">
-
-## 🎓 AOFESTUS
-
-**Academic Research & Identity Platform**
-
-A production academic website and research record for Dr. Osuolale Adeyinka Festus, built around structured academic data, publication provenance, accessibility, SEO, research identity, and long-term maintainability.
-
-**Python · Data-driven static generation · Netlify · Academic metadata**
-
-[Live site](https://aofestus.com) · [Repository](https://github.com/Cyberangelo-King/osuolale-festus-site)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔬 Architecture & Build Journals
-
-I like leaving a trail.
-
-Not just the final interface, but the decisions, trade-offs, failures, constraints, experiments, and reasoning that produced it.
-
-### OROS
-- [Production Architecture Blueprint](https://github.com/Cyberangelo-King/OROS/blob/main/docs/architecture/production-blueprint.md)
-- [Build Journal](https://github.com/Cyberangelo-King/OROS/blob/main/build-journal.md)
-- [Product README](https://github.com/Cyberangelo-King/OROS)
-
-### Momentum
-- [Repository architecture](https://github.com/Cyberangelo-King/Momentum#architecture)
-- [Authority model](https://github.com/Cyberangelo-King/Momentum#authority-model)
-- [Security doctrine](https://github.com/Cyberangelo-King/Momentum#security-doctrine)
-
-### AOFESTUS
-- [Architecture](https://github.com/Cyberangelo-King/osuolale-festus-site#architecture)
-- [Content workflow](https://github.com/Cyberangelo-King/osuolale-festus-site#content-workflow)
-- [SEO & identity](https://github.com/Cyberangelo-King/osuolale-festus-site#seo-and-identity)
-
-> **The code is the product. The journal is the evidence.**
-
----
-
-## 🧪 Lab
-
-Small experiments, prototypes, tools, and weird ideas that may become something bigger.
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 🧠 AI Experiments
-
-Exploring agents, bounded autonomy, context, memory, tool use, and ways to make AI part of a useful system rather than simply adding a chatbot.
-
-</td>
-<td width="33%" valign="top">
-
-### 🎨 Interface Experiments
-
-Trying different approaches to interaction, visual systems, WebGL, motion, design tooling, and the relationship between interface and cognition.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧰 Utility Experiments
-
-Browser tools, automation, developer utilities, PDF tooling, optimization experiments, and small things built because I wanted to know if I could make them work.
-
-</td>
-</tr>
-</table>
-
-**Current lab signals:** OROS · IHatePDF · IHatePDF v2 · UI/UX tooling · AI experiments · product prototypes
-
-> Some experiments become products. Some become lessons. Some are just me asking, **"What happens if I try this?"**
-
----
-
-## 🧠 What These Projects Say About Me
-
-```text
-I don't want to be known for a list of technologies.
-
-I want the work to answer a harder question:
-
-        What happens when a difficult problem
-                 lands on my desk?
-
-                         ↓
-
-                  UNDERSTAND THE SYSTEM
-                         ↓
-                     FIND LEVERAGE
-                         ↓
-                    BUILD + TEST
-                         ↓
-                       SHIP
-                         ↓
-                      LEARN
-                         ↓
-                  BETTER SYSTEM
-```
-
-Across my work, I deliberately look for the intersection of:
-
-**engineering quality · user experience · security · intelligence · measurable outcomes**
+## 🧠 Engineering Principles
+
+1. **Start with the problem, not the stack.**
+2. **Make the simplest useful system first.**
+3. **Treat security and privacy as architecture concerns.**
+4. **Measure what matters.**
+5. **Document important decisions.**
+6. **Build for failure, not just the happy path.**
+7. **Keep AI bounded by explicit authority.**
+8. **Automate repetitive work.**
+9. **Ship, observe, improve.**
+
+One principle sits underneath all of them:
+
+> **Don't claim what the system cannot actually guarantee.**
 
 ---
 
@@ -326,33 +232,53 @@ Across my work, I deliberately look for the intersection of:
 
 ---
 
-## 📐 Engineering Principles
+## 📚 Build Journals & Technical Writing
 
-1. **Start with the problem, not the stack.**
-2. **Make the simplest useful system first.**
-3. **Treat security and privacy as architecture concerns.**
-4. **Measure what matters.**
-5. **Document important decisions.**
-6. **Automate repetitive work.**
-7. **Build for failure, not just the happy path.**
-8. **Keep AI bounded by explicit authority.**
-9. **Ship, observe, improve.**
+I like leaving a trail.
+
+Not just the final interface, but the decisions, trade-offs, failures, constraints, experiments, and reasoning that produced it.
+
+- **OROS** — architecture, product decisions, and build journal
+- **Momentum** — architecture, authority model, security doctrine, and engine design
+- **AOFESTUS** — architecture, content workflow, SEO, identity, deployment, and governance
+- **IHatePDF** — privacy model, browser constraints, output guarantees, and security decisions
+
+> **The code is the product. The journal is the evidence.**
 
 ---
 
 ## 🔭 Currently Building
 
 ### ⚡ Momentum
-Hardening the architecture, security, reliability, authorization model, and intelligence layer of the Event OS.
+Hardening the Event OS around security, authorization, reliability, intelligence, offline resilience, and production readiness.
 
-### 🧠 OROS
-Moving from product and design foundations toward the next stage of the mobile-first build.
+### 📄 IHatePDF v2
+Pushing the browser-first PDF idea much further: better UX, stronger architecture, performance, theme behavior, document workflows, and honest client-side guarantees.
+
+### 🌱 Wildday
+Building a calmer personal momentum system around action, routines, focus, reflection, and recovery.
 
 ### 🧱 The Web Maven
-Evolving a founder-led studio into a more productized system around software, websites, AI, automation, and digital infrastructure.
+Turning a founder-led web studio into a more productized system around software, websites, AI, automation, SEO, and digital infrastructure.
 
-### 🤖 Applied AI
-Exploring systems that remember context, reason over it, assist people without overstepping, and improve through feedback.
+### 🧠 Applied AI
+Exploring systems that can remember context, reason over it, assist people without overstepping, and improve through feedback.
+
+---
+
+## 🧪 The Lab
+
+Some things are products.
+
+Some become tools.
+
+Some become research.
+
+Some exist because I had a question and wanted to see what happened if I built the answer.
+
+Current signals include:
+
+**AI systems · browser tooling · product prototypes · WebGL · automation · ML · developer utilities · experimental interfaces**
 
 ---
 
@@ -360,7 +286,7 @@ Exploring systems that remember context, reason over it, assist people without o
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Angëlo%27s%20GitHub%20Stats" alt="Angëlo's GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Ang%C3%ABlo%27s%20GitHub%20Stats" alt="Angëlo's GitHub statistics" />
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Languages" alt="Angëlo's top languages" />
 
@@ -380,23 +306,13 @@ Exploring systems that remember context, reason over it, assist people without o
 
 ---
 
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Cyberangelo-King/Cyberangelo-King/gh-pages/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="95%" />
-
-</div>
-
----
-
 ## ✍️ Beyond Code
 
 I write about **technology, business, psychology, philosophy, purpose, execution, and the human side of building things**.
 
-Because good engineering is not only about knowing **how** to build something.
+Because knowing **how** to build something is only half the problem.
 
-It is also about knowing **what is worth building in the first place.**
+The other half is knowing **what is worth building in the first place.**
 
 [Read my writing](https://faithboyejo.substack.com/)
 
@@ -404,9 +320,9 @@ It is also about knowing **what is worth building in the first place.**
 
 ## 🤝 Work With Me
 
-I'm open to **freelance engineering, contract work, product collaborations, AI/ML projects, and interesting technical partnerships**.
+I'm open to **software engineering, AI/ML work, contract projects, product collaborations, technical problem-solving, and interesting partnerships**.
 
-The best fit is usually work where there is a real problem to solve, not just a list of features to implement.
+The best fit is usually a real problem with enough complexity to make the solution interesting.
 
 **Full-stack product engineering · AI/ML systems · AI integration · Automation · Technical problem-solving · Product prototyping**
 
