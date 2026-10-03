@@ -296,11 +296,7 @@ Current signals include:
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyberangelo-King&theme=tokyo-night&hide_border=true&area=true" alt="Angëlo's GitHub activity graph" width="95%" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Cyberangelo-King&style=for-the-badge&color=FA8938&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Cyberangelo-King&style=for-the-badge&color=FA8938&label=PROFILE%20VIEWS" alt="Profile views" />
 
 </div>
 
