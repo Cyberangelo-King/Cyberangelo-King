@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/Cyberangelo-King">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:111827,75:1F2937,100:FA8938&height=230&section=header&text=Faith%20Akinola%20Boyejo&fontSize=43&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Ang%C3%ABlo%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder&descAlignY=57&descSize=17" width="100%" alt="Faith Akinola Boyejo, Angëlo" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:111827,75:1F2937,100:FA8938&height=240&section=header&text=Faith%20Akinola%20Boyejo&fontSize=43&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Ang%C3%ABlo%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder&descAlignY=57&descSize=17" width="100%" alt="Faith Akinola Boyejo, Angëlo" />
 </a>
 
 ### `whoami`
@@ -14,10 +14,17 @@
 
 **Lagos, Nigeria 🇳🇬 · Working globally**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faithakinolaboyejo/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=linktree&logoColor=white)](https://beacons.ai/theangeloking)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faithakinboyejo@gmail.com)
-[![The Web Maven](https://img.shields.io/badge/The_Web_Maven-FA8938?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
+<a href="https://www.linkedin.com/in/faithakinolaboyejo/">LinkedIn</a> ·
+<a href="https://beacons.ai/theangeloking">Portfolio</a> ·
+<a href="mailto:faithakinboyejo@gmail.com">Email</a> ·
+<a href="https://thewebmaven.netlify.app">The Web Maven</a>
+
+<br/>
+
+<a href="#selected-work">Selected Work</a> ·
+<a href="#how-i-build">How I Build</a> ·
+<a href="#currently-building">Currently Building</a> ·
+<a href="#github-signals">GitHub Signals</a>
 
 </div>
 
@@ -49,7 +56,7 @@ I don't want my GitHub to be a list of technologies. I want it to be evidence of
 
 Full-stack applications, APIs, dashboards, internal tools, browser tooling, developer utilities, and product prototypes.
 
-**Think:** architecture, interfaces, data flows, reliability, deployment.
+**Architecture · Interfaces · Data · Reliability · Deployment**
 
 </td>
 <td width="33%" valign="top">
@@ -58,16 +65,16 @@ Full-stack applications, APIs, dashboards, internal tools, browser tooling, deve
 
 Applied AI/ML systems that move beyond demos into useful workflows and decisions.
 
-**Think:** data, models, evaluation, explainability, inference, agents.
+**Data · Models · Evaluation · Explainability · Inference · Agents**
 
 </td>
 <td width="33%" valign="top">
 
 ### 🚀 Products
 
-Products shaped around real problems, with attention to UX, architecture, security, deployment, and long-term maintainability.
+Products shaped around real problems, with attention to UX, architecture, security, deployment, and maintainability.
 
-**Think:** users, systems, iteration, business value.
+**Users · Systems · Iteration · Business value**
 
 </td>
 </tr>
@@ -77,42 +84,23 @@ Products shaped around real problems, with attention to UX, architecture, securi
 
 ## 🏗️ How I Build
 
-```text
-                         ┌─────────────────┐
-                         │     PROBLEM     │
-                         └────────┬────────┘
-                                  ↓
-                         ┌─────────────────┐
-                         │    DISCOVER     │
-                         │ understand it   │
-                         └────────┬────────┘
-                                  ↓
-                         ┌─────────────────┐
-                         │     DESIGN      │
-                         │ model the system│
-                         └────────┬────────┘
-                                  ↓
-                         ┌─────────────────┐
-                         │    ENGINEER     │
-                         │ build + integrate│
-                         └────────┬────────┘
-                                  ↓
-                         ┌─────────────────┐
-                         │     VERIFY      │
-                         │ test + break it │
-                         └────────┬────────┘
-                                  ↓
-                         ┌─────────────────┐
-                         │      SHIP       │
-                         └────────┬────────┘
-                                  ↓
-                         ┌─────────────────┐
-                         │     LEARN       │
-                         │ observe → adapt │
-                         └────────┬────────┘
-                                  │
-                                  └──────→ better system
-```
+<table>
+<tr>
+<td align="center"><strong>01<br/>PROBLEM</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>02<br/>DISCOVER</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>03<br/>DESIGN</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>04<br/>ENGINEER</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>05<br/>VERIFY</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>06<br/>SHIP</strong></td>
+<td align="center">→</td>
+<td align="center"><strong>07<br/>LEARN</strong></td>
+</tr>
+</table>
 
 > **Clarity over cleverness. Evidence over assumptions. Systems over isolated features.**
 
@@ -120,38 +108,41 @@ Products shaped around real problems, with attention to UX, architecture, securi
 
 # 🚀 Selected Work
 
-These are the projects that best represent the direction of my work.
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚡ Momentum
 **Event Intelligence & Relationship OS**
 
 A privacy-first system for turning real-world events into durable context, relationship intelligence, actionable follow-up, and compounding learning.
 
-The architecture is designed as a broader **Event OS** for conferences, summits, workshops, hackathons, masterminds, networking events, and other high-context environments.
-
 **Intelligence · Memory · Governance · Security · Offline resilience**
 
-[Repository](https://github.com/Cyberangelo-King/Momentum)
+<a href="https://github.com/Cyberangelo-King/Momentum">Repository ↗</a>
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 📄 IHatePDF
 **Privacy-first browser document toolkit**
 
 A browser-first PDF workspace for merging, splitting, converting, rendering, OCR, watermarking, metadata, and other document operations without uploading document contents to a remote processing backend.
 
-The project is deliberately honest about browser limitations: large files and OCR can consume substantial CPU/RAM, and operations are constrained accordingly.
+**JavaScript · PDF.js · PDF-lib · Tesseract.js · Browser APIs**
 
-**JavaScript · PDF.js · PDF-lib · Tesseract.js · Browser APIs · Client-side processing**
+<a href="https://github.com/Cyberangelo-King/IHatePDF">Repository ↗</a> · <a href="https://github.com/Cyberangelo-King/IHatePDF-v2.0">v2.0 ↗</a>
 
-[Repository](https://github.com/Cyberangelo-King/IHatePDF) · [IHatePDF v2](https://github.com/Cyberangelo-King/IHatePDF-v2.0) *(private / active development)*
+</td>
+</tr>
 
----
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Fraud Detection ML System
-**Applied Machine Learning · Decision Support · Explainability**
+**Applied ML · Decision Support · Explainability**
 
-An end-to-end credit-card fraud detection system using a stacking ensemble of XGBoost, Random Forest, and Logistic Regression, with leakage-aware OOF methodology, SHAP explainability, FastAPI inference, and a Streamlit dashboard.
+An end-to-end fraud detection system using a stacking ensemble of **XGBoost, Random Forest, and Logistic Regression**, with leakage-aware OOF methodology, SHAP explainability, FastAPI inference, and a Streamlit dashboard.
 
 | Metric | Result |
 |---|---:|
@@ -159,42 +150,44 @@ An end-to-end credit-card fraud detection system using a stacking ensemble of XG
 | F1 | **0.881** |
 | MCC | **0.884** |
 
-[Repository](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection) · [Results](https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection/blob/main/RESULTS.md)
+<a href="https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection">Repository ↗</a> · <a href="https://github.com/Cyberangelo-King/Ensemble-Machine-Learning-for-Online-Credit-Card-Fraud-Detection/blob/main/RESULTS.md">Results ↗</a>
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🌐 The Web Maven
 **Founder-led software & web studio**
 
-The Web Maven is my studio for strategic websites, software, AI integration, automation, SEO, and digital systems.
-
-The philosophy is simple:
+My studio for strategic websites, software, AI integration, automation, SEO, and digital systems.
 
 > **Build useful systems, not disposable websites.**
 
 **Strategy · Design · Engineering · Automation · Delivery**
 
-[Live site](https://thewebmaven.netlify.app) · [Repository](https://github.com/Cyberangelo-King/thewebmavenhq) *(private)*
+<a href="https://thewebmaven.netlify.app">Live site ↗</a>
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🎓 AOFESTUS
 **Academic research & identity platform**
 
-A production academic website and research record for Dr. Osuolale Adeyinka Festus, built around structured academic data, provenance, accessibility, SEO, research identity, and long-term maintainability.
+A production academic website and research record built around structured academic data, accessibility, SEO, research identity, and long-term maintainability.
 
-**Python · Data-driven static generation · Netlify · Academic metadata**
+**Python · Static generation · Netlify · Academic metadata**
 
-[Live site](https://aofestus.com) · [Repository](https://github.com/Cyberangelo-King/osuolale-festus-site) *(private)*
+<a href="https://aofestus.com">Live site ↗</a>
 
----
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 🧠 OROS
 **Problem Intelligence & Problem-Solving System**
 
-OROS is built around a different loop:
+Built around a simple loop:
 
 **Find → Research → Abstract → Build → Reflect → Share**
 
@@ -202,23 +195,27 @@ The goal is to turn genuine problem-solving into reusable knowledge, better deci
 
 **AI · Research · Problem solving · ALEN · Mobile-first systems**
 
-[Repository](https://github.com/Cyberangelo-King/OROS) *(private / active development)*
+<a href="https://github.com/Cyberangelo-King/OROS">Repository ↗</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Engineering Principles
+## 🧭 Engineering Principles
 
-1. **Start with the problem, not the stack.**
-2. **Make the simplest useful system first.**
-3. **Treat security and privacy as architecture concerns.**
-4. **Measure what matters.**
-5. **Document important decisions.**
-6. **Build for failure, not just the happy path.**
-7. **Keep AI bounded by explicit authority.**
-8. **Automate repetitive work.**
-9. **Ship, observe, improve.**
-
-One principle sits underneath all of them:
+| | Principle |
+|---|---|
+| 01 | **Start with the problem, not the stack.** |
+| 02 | **Make the simplest useful system first.** |
+| 03 | **Treat security and privacy as architecture concerns.** |
+| 04 | **Measure what matters.** |
+| 05 | **Document important decisions.** |
+| 06 | **Build for failure, not just the happy path.** |
+| 07 | **Keep AI bounded by explicit authority.** |
+| 08 | **Automate repetitive work.** |
+| 09 | **Ship, observe, improve.** |
 
 > **Don't claim what the system cannot actually guarantee.**
 
@@ -226,20 +223,13 @@ One principle sits underneath all of them:
 
 ## 🧰 Engineering Toolkit
 
-### Languages
-`Python` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
-
-### Frontend
-`React` · `Next.js` · `React Native` · `Tailwind CSS` · `Three.js` · `WebGL`
-
-### Backend & Data
-`Node.js` · `FastAPI` · `PostgreSQL` · `Supabase` · `Streamlit`
-
-### AI / ML
-`scikit-learn` · `XGBoost` · `NumPy` · `Pandas` · `Gemini` · `AI Agents`
-
-### Engineering & Infrastructure
-`Git` · `GitHub` · `GitHub Actions` · `Linux` · `Netlify` · `Vercel`
+| Area | Tools |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · HTML · CSS |
+| **Frontend** | React · Next.js · React Native · Tailwind CSS · Three.js · WebGL |
+| **Backend & Data** | Node.js · FastAPI · PostgreSQL · Supabase · Streamlit |
+| **AI / ML** | scikit-learn · XGBoost · NumPy · Pandas · Gemini · AI Agents |
+| **Engineering** | Git · GitHub · GitHub Actions · Linux · Netlify · Vercel |
 
 > Tools change. **Architecture, problem-solving, security, testing, communication, and shipping remain.**
 
@@ -251,24 +241,54 @@ I like leaving a trail.
 
 Not just the final interface, but the decisions, trade-offs, failures, constraints, experiments, and reasoning that produced it.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### OROS
-- [Production Architecture Blueprint](https://github.com/Cyberangelo-King/OROS/blob/main/docs/architecture/production-blueprint.md)
-- [Build Journal](https://github.com/Cyberangelo-King/OROS/blob/main/build-journal.md)
-- [Product README](https://github.com/Cyberangelo-King/OROS)
+
+<a href="https://github.com/Cyberangelo-King/OROS/blob/main/docs/architecture/production-blueprint.md">Production Architecture Blueprint ↗</a>
+
+<a href="https://github.com/Cyberangelo-King/OROS/blob/main/build-journal.md">Build Journal ↗</a>
+
+<a href="https://github.com/Cyberangelo-King/OROS">Product README ↗</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### Momentum
-- [Repository architecture](https://github.com/Cyberangelo-King/Momentum#architecture)
-- [Authority model](https://github.com/Cyberangelo-King/Momentum#authority-model)
-- [Security doctrine](https://github.com/Cyberangelo-King/Momentum#security-doctrine)
+
+<a href="https://github.com/Cyberangelo-King/Momentum#architecture">Repository architecture ↗</a>
+
+<a href="https://github.com/Cyberangelo-King/Momentum#authority-model">Authority model ↗</a>
+
+<a href="https://github.com/Cyberangelo-King/Momentum#security-doctrine">Security doctrine ↗</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### AOFESTUS
-- [Architecture](https://github.com/Cyberangelo-King/osuolale-festus-site#architecture)
-- [Content workflow](https://github.com/Cyberangelo-King/osuolale-festus-site#content-workflow)
-- [SEO & identity](https://github.com/Cyberangelo-King/osuolale-festus-site#seo-and-identity)
+
+<a href="https://github.com/Cyberangelo-King/osuolale-festus-site#architecture">Architecture ↗</a>
+
+<a href="https://github.com/Cyberangelo-King/osuolale-festus-site#content-workflow">Content workflow ↗</a>
+
+<a href="https://github.com/Cyberangelo-King/osuolale-festus-site#seo-and-identity">SEO & identity ↗</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### IHatePDF
-- [Repository](https://github.com/Cyberangelo-King/IHatePDF)
-- [IHatePDF v2](https://github.com/Cyberangelo-King/IHatePDF-v2.0)
+
+<a href="https://github.com/Cyberangelo-King/IHatePDF">Repository ↗</a>
+
+<a href="https://github.com/Cyberangelo-King/IHatePDF-v2.0">IHatePDF v2 ↗</a>
+
+</td>
+</tr>
+</table>
 
 > **The code is the product. The journal is the evidence.**
 
@@ -276,23 +296,40 @@ Not just the final interface, but the decisions, trade-offs, failures, constrain
 
 ## 🔭 Currently Building
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧠 OROS
+
 Moving from product and design foundations toward the next stage of the mobile-first build.
 
 ### ⚡ Momentum
+
 Hardening the Event OS around security, authorization, reliability, intelligence, offline resilience, and production readiness.
 
 ### 📄 IHatePDF v2
-Pushing the browser-first PDF idea much further: better UX, stronger architecture, performance, theme behavior, document workflows, and honest client-side guarantees.
+
+Pushing the browser-first PDF idea further: better UX, stronger architecture, performance, theme behavior, document workflows, and honest client-side guarantees.
+
+</td>
+<td width="50%" valign="top">
 
 ### 🌱 Wildday
+
 Building a calmer personal momentum system around action, routines, focus, reflection, and recovery.
 
 ### 🧱 The Web Maven
+
 Turning a founder-led web studio into a more productized system around software, websites, AI, automation, SEO, and digital infrastructure.
 
 ### 🧠 Applied AI
+
 Exploring systems that can remember context, reason over it, assist people without overstepping, and improve through feedback.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -306,14 +343,14 @@ Small experiments, prototypes, tools, and weird ideas that may become something 
 
 ### 🧠 AI Experiments
 
-Exploring agents, bounded autonomy, context, memory, tool use, and ways to make AI part of a useful system rather than simply adding a chatbot.
+Agents, bounded autonomy, context, memory, tool use, and ways to make AI part of useful systems rather than simply adding a chatbot.
 
 </td>
 <td width="33%" valign="top">
 
 ### 🎨 Interface Experiments
 
-Trying different approaches to interaction, visual systems, WebGL, motion, design tooling, and the relationship between interface and cognition.
+Interaction, visual systems, WebGL, motion, design tooling, and the relationship between interface and cognition.
 
 </td>
 <td width="33%" valign="top">
@@ -342,13 +379,7 @@ I want the work to answer a harder question:
 
 > **“What happens when a difficult problem lands on his desk?”**
 
-Understand the system.  
-Find the leverage.  
-Build.  
-Break it.  
-Ship.  
-Learn.  
-Build the better version.
+**Understand the system. → Find the leverage. → Build. → Break it. → Ship. → Learn. → Build the better version.**
 
 Across my work, I deliberately look for the intersection of:
 
@@ -360,17 +391,56 @@ Across my work, I deliberately look for the intersection of:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&custom_title=Ang%C3%ABlo%27s%20GitHub%20Stats" alt="Angëlo's GitHub statistics" />
+<table>
+<tr>
+<td>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Languages" alt="Angëlo's top languages" />
+<a href="https://github.com/Cyberangelo-King">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github&custom_title=Ang%C3%ABlo%27s%20GitHub%20Stats">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=github&custom_title=Ang%C3%ABlo%27s%20GitHub%20Stats">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=github&custom_title=Ang%C3%ABlo%27s%20GitHub%20Stats" alt="Angëlo's GitHub statistics" />
+</picture>
+</a>
+
+</td>
+<td>
+
+<a href="https://github.com/Cyberangelo-King">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&langs_count=8&hide_border=true&theme=github_dark&custom_title=Languages">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&langs_count=8&hide_border=true&theme=default&custom_title=Languages">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&langs_count=8&hide_border=true&theme=default&custom_title=Languages" alt="Angëlo's top languages" />
+</picture>
+</a>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Cyberangelo-King&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<a href="https://github.com/Cyberangelo-King">
+  <img src="https://streak-stats.demolab.com?user=Cyberangelo-King&hide_border=true&theme=github-dark" alt="Angëlo's GitHub streak" />
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Cyberangelo-King&style=for-the-badge&color=FA8938&label=PROFILE%20VIEWS" alt="Profile views" />
+<strong>Contribution rhythm</strong>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyberangelo-King/Cyberangelo-King/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyberangelo-King/Cyberangelo-King/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Cyberangelo-King/Cyberangelo-King/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%">
+</picture>
+
+<br/><br/>
+
+<a href="https://github.com/Cyberangelo-King">
+  <img src="https://komarev.com/ghpvc/?username=Cyberangelo-King&label=PROFILE+VIEWS&style=flat-square&color=FA8938" alt="GitHub profile views" />
+</a>
 
 </div>
 
@@ -384,7 +454,7 @@ Because knowing **how** to build something is only half the problem.
 
 The other half is knowing **what is worth building in the first place.**
 
-[Read my writing](https://faithboyejo.substack.com/)
+<a href="https://faithboyejo.substack.com/">Read my writing ↗</a>
 
 ---
 
@@ -400,15 +470,11 @@ The best fit is usually a real problem with enough complexity to make the soluti
 
 ### **Building from Lagos. Thinking globally. Shipping deliberately.**
 
-[![Email Angelo](https://img.shields.io/badge/Email_Angelo-FA8938?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faithakinboyejo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_with_Angelo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faithakinolaboyejo/)
-[![The Web Maven](https://img.shields.io/badge/Build_with_The_Web_Maven-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://thewebmaven.netlify.app)
+<a href="mailto:faithakinboyejo@gmail.com">Email Angelo ↗</a> ·
+<a href="https://www.linkedin.com/in/faithakinolaboyejo/">Connect on LinkedIn ↗</a> ·
+<a href="https://thewebmaven.netlify.app">Build with The Web Maven ↗</a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 <sub><strong>Faith Akinola Boyejo</strong> · Angëlo · Software Engineer · AI/ML Engineer · Founder</sub>
 
