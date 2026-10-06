@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Angëlo profile wordmark</title>
+  <desc id="desc">A terminal-inspired wordmark for Angëlo, software engineer, AI and ML engineer, and founder.</desc>
+  <rect width="1200" height="320" rx="28" fill="#05070A"/>
+  <rect x="1" y="1" width="1198" height="318" rx="27" fill="none" stroke="#F5F5F5" stroke-opacity=".18"/>
+  <circle cx="44" cy="42" r="7" fill="#F5F5F5" fill-opacity=".7"/>
+  <circle cx="70" cy="42" r="7" fill="#F5F5F5" fill-opacity=".35"/>
+  <circle cx="96" cy="42" r="7" fill="#F5F5F5" fill-opacity=".18"/>
+  <text x="44" y="102" fill="#F5F5F5" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="22">angelo@github ~ $ whoami</text>
+  <text x="44" y="190" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="78" font-weight="700">ANGËLO</text>
+  <text x="48" y="236" fill="#FA8938" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="20">software · intelligence · craft</text>
+  <text x="48" y="278" fill="#F5F5F5" fill-opacity=".65" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16">Faith Akinola Boyejo  /  Lagos → anywhere</text>
+</svg>
