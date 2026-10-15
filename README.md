@@ -1,5 +1,9 @@
 <div align="center">
 
+<a href="https://github.com/Cyberangelo-King">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,45:111827,75:1F2937,100:FA8938&height=220&section=header&text=Faith%20Akinola%20Boyejo&fontSize=42&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=Ang%C3%ABlo%20%7C%20Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Founder&descAlignY=57&descSize=16" width="100%" alt="Faith Akinola Boyejo — Angëlo, Software Engineer, AI/ML Engineer and Founder" />
+</a>
+
 # Faith Akinola Boyejo
 
 ### **Angëlo** · Software Engineer · AI/ML Engineer · Founder
@@ -9,6 +13,15 @@
 Lagos, Nigeria 🇳🇬 · Working globally
 
 [LinkedIn](https://www.linkedin.com/in/faithakinolaboyejo/) · [Portfolio](https://beacons.ai/theangeloking) · [Email](mailto:faithakinboyejo@gmail.com) · [The Web Maven](https://thewebmaven.netlify.app)
+
+<img src="https://komarev.com/ghpvc/?username=Cyberangelo-King&style=flat-square&color=FA8938" alt="Profile views" />
+
+<a href="#why-i-build">Why I Build</a> ·
+<a href="#per-aspera-ad-astra">Per Aspera Ad Astra</a> ·
+<a href="#selected-work">Selected Work</a> ·
+<a href="#build-journals">Build Journals</a> ·
+<a href="#github-signals">GitHub Signals</a> ·
+<a href="#work-with-me">Work With Me</a>
 
 </div>
 
@@ -29,6 +42,87 @@ I build and improve software across the stack, with a particular interest in:
 - **Product engineering** — moving from an unclear problem to a working, maintainable system.
 
 My GitHub is meant to be **evidence of how I think and build**, not a catalogue of every technology I've touched.
+
+---
+
+## Why I build
+
+Curiosity alone is not enough.
+
+I want to understand difficult things deeply enough to turn them into something useful: a system, a product, a tool, a model, a better question, or a clearer way of thinking.
+
+I don't want to spend my life merely consuming technology. I want to **understand it, question it, build with it, and eventually shape it.** And I want the things I build to compound.
+
+One project should teach me something that improves the next.  
+One failure should make the next system harder to break.  
+One useful idea should become another useful idea.
+
+> **I am not trying to build everything. I am trying to become capable of building what matters.**
+
+---
+
+## Per Aspera Ad Astra
+
+**Through hardships to the stars.**
+
+That philosophy sits underneath the work. Not because difficulty is automatically good, but because friction can expose what needs to be learned, simplified, adapted, or rebuilt.
+
+When resources are limited, the architecture gets messy, the first approach fails, or the problem is harder than expected, the answer is not always to lower the ambition. Sometimes it is to **learn more, simplify better, endure longer, and build smarter.**
+
+```text
+        THE PROBLEM
+             │
+             ▼
+        THE FRICTION
+             │
+      ┌──────┴──────┐
+      │             │
+   LEARN          ADAPT
+      │             │
+      └──────┬──────┘
+             ▼
+          BUILD
+             │
+             ▼
+           TEST
+             │
+             ▼
+           GROW
+             │
+             ▼
+      PER ASPERA AD ASTRA
+```
+
+The goal is not to romanticize struggle. The goal is to **make something of it.**
+
+---
+
+## How I think
+
+> **Think deeply. Build deliberately. Stay curious. Keep becoming.**
+
+The code is one expression of that. I try to keep the technical and human sides of building connected: purpose, thought, character, discipline, curiosity, relationships, and growth.
+
+```text
+                 PURPOSE
+                    │
+             ┌──────┴──────┐
+             │             │
+           MIND         MINDSET
+             │             │
+        understanding   character
+             │             │
+             └──────┬──────┘
+                    │
+                  CRAFT
+                    │
+                    ▼
+                  IMPACT
+```
+
+**Intelligence without judgment is dangerous.  
+Capability without character is incomplete.  
+Speed without direction is just movement.**
 
 ---
 
@@ -152,6 +246,21 @@ Git · GitHub · GitHub Actions · Linux · Netlify · Vercel
 
 ---
 
+## Build journals
+
+The code is the product. The journal is the evidence. These selected notes preserve the architecture, trade-offs, security decisions, and implementation trail behind the work.
+
+**OROS**  
+[Production architecture blueprint](https://github.com/Cyberangelo-King/OROS/blob/main/docs/architecture/production-blueprint.md) · [Build journal](https://github.com/Cyberangelo-King/OROS/blob/main/build-journal.md) · [Repository](https://github.com/Cyberangelo-King/OROS)
+
+**Momentum**  
+[Architecture](https://github.com/Cyberangelo-King/Momentum#architecture) · [Authority model](https://github.com/Cyberangelo-King/Momentum#authority-model) · [Security doctrine](https://github.com/Cyberangelo-King/Momentum#security-doctrine)
+
+**AOFESTUS**  
+[Architecture](https://github.com/Cyberangelo-King/osuolale-festus-site#architecture) · [Content workflow](https://github.com/Cyberangelo-King/osuolale-festus-site#content-workflow) · [SEO & identity](https://github.com/Cyberangelo-King/osuolale-festus-site#seo-and-identity)
+
+---
+
 ## What I am building toward
 
 I want to become the kind of engineer and founder who can move from:
@@ -183,6 +292,61 @@ I'm open to:
 If there is a real problem worth solving, **show me the system.**
 
 [Email Angelo](mailto:faithakinboyejo@gmail.com) · [Connect on LinkedIn](https://www.linkedin.com/in/faithakinolaboyejo/) · [The Web Maven](https://thewebmaven.netlify.app)
+
+---
+
+## GitHub signals
+
+These cards are live, third-party generated summaries of public GitHub activity. They can take a moment to load and may occasionally be rate-limited by their providers.
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Cyberangelo-King">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=github&custom_title=Ang%C3%ABlo%27s%20GitHub%20Stats" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=github&custom_title=Ang%C3%ABlo%27s%20GitHub%20Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberangelo-King&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=github&custom_title=Ang%C3%ABlo%27s%20GitHub%20Stats" alt="Angëlo's GitHub statistics" width="100%" />
+</picture>
+</a>
+</td>
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Cyberangelo-King">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&langs_count=8&hide_border=true&theme=github_dark&custom_title=Languages" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&langs_count=8&hide_border=true&theme=default&custom_title=Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberangelo-King&layout=compact&langs_count=8&hide_border=true&theme=default&custom_title=Languages" alt="Angëlo's top languages" width="100%" />
+</picture>
+</a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<a href="https://github.com/Cyberangelo-King">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Cyberangelo-King&hide_border=true&theme=github-dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Cyberangelo-King&hide_border=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=Cyberangelo-King&hide_border=true&theme=default" alt="Angëlo's GitHub contribution streak" width="100%" />
+</picture>
+</a>
+
+<br/><br/>
+
+<strong>Contribution rhythm</strong>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cyberangelo-King/Cyberangelo-King/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cyberangelo-King/Cyberangelo-King/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Cyberangelo-King/Cyberangelo-King/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake showing contribution activity" width="100%" />
+</picture>
+
+</div>
 
 ---
 
